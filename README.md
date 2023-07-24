@@ -1,8 +1,20 @@
-Run the following to clone the repo:
+Here you'll find I uploaded my solutions to the projects.
 
-`git clone https://github.com/cs320-wisc/f22.git`
+A short description of the projects:
 
-Corrections will regularly be added to this repo. Make sure to run `git pull` before you begin working.
+P1: Python Review, Git Analysis, Benchmarking
+
+P2 Loan Analysis:  meant for us to practice creating classes, working with large datasets, using trees, and writing tests and modules
+
+P3 Find the Path: Allowed us to practice inheritance, graph search, and web scraping
+
+P4 Building a Data Website: learned how to create a website that imported data, interacted with vistors, and displayed graphs of data comparisons
+
+P5 EDGAR Web Logs: learned how to compress large amounts of data and use it later for analysis
+
+P6 Regression Models: made predictions based on regression models
+
+P7 Selling Laptops: Smart Marketing: this project was more open ended, we had to create a classifer using some combination of the given data and any type of Regression and pipline we wanted.
 
 ## Projects
 
